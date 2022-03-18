@@ -2,4 +2,4 @@
 [1FFF00]Changes[-]:
 [1FFF00]-[-] News are now on [949494]Github[-] - they will update [1FFF00]ASAP![-] (But you need Assembly-CSharp.dll for it)
 [1FFF00]-[-] Checkpoints and saves [FF0000]ARE NOT WORKING![-]
-[1FFF00]-[-] Gravity is now [FF0000]HIGHER![-] Jump also now is [FF0000]LOWER![-]
+[1FFF00]-[-] Respawning objects, if destroyed, is [FF0000]NOT WORKING![-] Try to be neat, unless, you will be forced[FF0000]TO START OVER![-]
