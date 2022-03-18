@@ -1,4 +1,4 @@
-Fractal Space Challenge Mode update! Version: 1.1.0.0
+[00CCFF]Fractal Space[-] [#ff0000]Challenge Mode[-] update! Version: [#ff0000]1.1.0.0[-]
 Changes:
 - News are now on Github - they will update ASAP (But you need Assembly-CSharp.dll for it)
 - Checkpoints and saves ARE NOT WORKING!
